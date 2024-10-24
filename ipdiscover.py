@@ -8,8 +8,8 @@ from prettytable import PrettyTable
 
 CONFIG = {
         'auth': {
-            'APIKEY': 'a8b7c39d-9be8-4174-81a2-3860d9230c1b',
-            'APIPASS': '221870d2-362f-4d16-bace-f3c8b0d58f94'
+            'APIKEY': *******,
+            'APIPASS': ******
         },
         'URL': 'https://exchange.xforce.ibmcloud.com/api/ipr/'
 }
